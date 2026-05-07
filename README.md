@@ -83,7 +83,9 @@ sales_data_project/
 ├── screenshots/
 │   └── dashboard.png
 ├── analysis.py
-├── sales.db
+├── cleaned_sales_data.csv
 ├── monthly_revenue.png
 ├── README.md
+├── sales_dashboard.pbix
+├── sales.db
 ```
