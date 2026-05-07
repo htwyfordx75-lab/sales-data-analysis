@@ -1,6 +1,6 @@
 # Sales Data Analysis Project
 
-Exploratory sales data analysis project using Python, Pandas, SQLite, and Matplotlib.
+End-to-end sales analytics project using Python, SQL, SQLite, Power BI, and data visualisation tools to analyse retail sales performance and business trends.
 
 ---
 
@@ -14,7 +14,7 @@ This project analyses retail sales data to identify:
 - Monthly revenue trends
 - Seasonal sales patterns
 
-The dataset was cleaned, processed, queried using SQL, and visualised using Python.
+The dataset was cleaned and processed using Python and Pandas, queried using SQL, and visualised using Matplotlib and Power BI.
 
 ---
 
@@ -33,6 +33,16 @@ The dataset was cleaned, processed, queried using SQL, and visualised using Pyth
 ## Dashboard Preview
 
 ![Dashboard Preview](screenshots/dashboard.png)
+
+---
+
+## Dashboard Features
+
+- KPI cards for Total Revenue, Total Orders, and Average Revenue Per Order
+- Monthly revenue trend analysis
+- Product revenue comparison
+- Interactive Power BI visuals
+- Business-focused dashboard layout
 
 ---
 
@@ -55,7 +65,7 @@ The dataset was cleaned, processed, queried using SQL, and visualised using Pyth
 ## Skills Demonstrated
 
 - Data cleaning
-- SQL querying
+- SQL querying and aggregation
 - Data aggregation
 - Revenue analysis
 - Data visualisation
@@ -70,6 +80,8 @@ The dataset was cleaned, processed, queried using SQL, and visualised using Pyth
 sales_data_project/
 │
 ├── data/
+├── screenshots/
+│   └── dashboard.png
 ├── analysis.py
 ├── sales.db
 ├── monthly_revenue.png
