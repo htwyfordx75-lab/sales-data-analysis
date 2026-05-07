@@ -82,3 +82,6 @@ plt.title("Monthly Revenue")
 plt.tight_layout()
 plt.savefig("monthly_revenue.png")
 plt.show()
+
+# Save cleaned dataset
+df.to_csv("cleaned_sales_data.csv", index=False)

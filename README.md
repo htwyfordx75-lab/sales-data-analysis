@@ -5,6 +5,7 @@ Exploratory sales data analysis project using Python, Pandas, SQLite, and Matplo
 ---
 
 ## Project Overview
+Interactive Power BI dashboard analysing retail sales trends, product revenue, and seasonal purchasing behaviour.
 
 This project analyses retail sales data to identify:
 
@@ -22,9 +23,16 @@ The dataset was cleaned, processed, queried using SQL, and visualised using Pyth
 - Python
 - Pandas
 - SQLite
+- Power BI
 - Matplotlib
 - VS Code
 - Git & GitHub
+
+---
+
+## Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard.png)
 
 ---
 
@@ -33,8 +41,8 @@ The dataset was cleaned, processed, queried using SQL, and visualised using Pyth
 - Revenue peaked in December at approximately $4.6 million
 - January generated the lowest revenue
 - Sales increased significantly during the holiday season
-- MacBook Pro Laptops generated the highest revenue overall
-- Batteries sold the highest quantity of units but generated relatively low revenue
+- Premium electronics such as MacBook Pro Laptops generated the highest revenue overall
+- Accessories such as Batteries sold the highest quantity of units but generated relatively low revenue
 
 ---
 
